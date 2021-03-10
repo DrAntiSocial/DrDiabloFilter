@@ -105,7 +105,7 @@ ItemDisplay[INF ILVL>14 !RW !leg]:
 
 //RUNES
 //1-16
-ItemDisplay[r01]: %ORANGE%# El Rune #%NOTIFY-BLUE%
+ItemDisplay[r01]: %RED%# %PURPLE%El Rune%RED% #%NOTIFY-ORANGE%
 ItemDisplay[r02]: %ORANGE%Eld Rune
 ItemDisplay[r03]: %ORANGE%Tir Rune
 ItemDisplay[r04]: %ORANGE%Nef Rune
