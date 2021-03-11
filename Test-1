@@ -105,22 +105,22 @@ ItemDisplay[INF ILVL>14 !RW !leg]:
 
 //RUNES
 //1-16
-ItemDisplay[r01]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
-ItemDisplay[r02]: %ORANGE%Eld Rune
-ItemDisplay[r03]: %ORANGE%Tir Rune
-ItemDisplay[r04]: %ORANGE%Nef Rune
-ItemDisplay[r05]: %ORANGE%Eth Rune
-ItemDisplay[r06]: %ORANGE%Ith Rune
-ItemDisplay[r07]: %ORANGE%Tal Rune
-ItemDisplay[r08]: %ORANGE%Ral Rune
-ItemDisplay[r09]: %ORANGE%Ort Rune
-ItemDisplay[r10]: %ORANGE%Thul Rune
-ItemDisplay[r11]: %ORANGE%Amn Rune
-ItemDisplay[r12]: %ORANGE%Sol Rune
-ItemDisplay[r13]: %ORANGE%Shael Rune
-ItemDisplay[r14]: %ORANGE%Dol Rune
-ItemDisplay[r15]: %ORANGE%Hel Rune
-ItemDisplay[r16]: %ORANGE%Io Rune
+ItemDisplay[r01]: %NOTIFY-ORANGE%%ORANGE%%RUNENAME% %NL%
+ItemDisplay[r02]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r03]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r04]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r05]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r06]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r07]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r08]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r09]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r10]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r11]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r12]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r13]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r14]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r15]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r16]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
 //17-23
 ItemDisplay[r17]: %ORANGE%Lum Rune
 ItemDisplay[r18]: %ORANGE%Ko Rune 
