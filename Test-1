@@ -105,7 +105,7 @@ ItemDisplay[INF ILVL>14 !RW !leg]:
 
 //RUNES
 //1-16
-ItemDisplay[r01]: %NOTIFY-ORANGE%%ORANGE%%RUNENAME% %NL%
+ItemDisplay[r01]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
 ItemDisplay[r02]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
 ItemDisplay[r03]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
 ItemDisplay[r04]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
@@ -122,24 +122,24 @@ ItemDisplay[r14]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
 ItemDisplay[r15]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
 ItemDisplay[r16]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
 //17-23
-ItemDisplay[r17]: %ORANGE%Lum Rune
-ItemDisplay[r18]: %ORANGE%Ko Rune 
-ItemDisplay[r19]: %ORANGE%Fal Rune
-ItemDisplay[r20]: %ORANGE%Lem Rune
-ItemDisplay[r21]: %ORANGE%Pul Rune
-ItemDisplay[r22]: %ORANGE%Um Rune
-ItemDisplay[r23]: %ORANGE%Mal Rune
+ItemDisplay[r17]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r18]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r19]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r20]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r21]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r22]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
+ItemDisplay[r23]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
 //24-33
-ItemDisplay[r24]: %ORANGE%Ist Rune
-ItemDisplay[r25]: %ORANGE%Gul Rune
-//ItemDisplay[r26]: %ORANGE%Vex Rune
-//ItemDisplay[r27]: %ORANGE%Ohm Rune
-//ItemDisplay[r28]: %ORANGE%Lo Rune
-//ItemDisplay[r29]: %ORANGE%Sur Rune
-//ItemDisplay[r30]: %ORANGE%Ber Rune
-//ItemDisplay[r31]: %ORANGE%Jah Rune
-//ItemDisplay[r32]: %ORANGE%Cham Rune
-//ItemDisplay[r33]: %ORANGE%Zod Rune
+ItemDisplay[r24]: %NOTIFY-ORANGE%%ORANGE%Ist Rune %NL%
+ItemDisplay[r25]: %NOTIFY-ORANGE%%ORANGE%Gul Rune %NL%
+//ItemDisplay[r26]: %NOTIFY-ORANGE%%ORANGE%Vex Rune %NL%
+//ItemDisplay[r27]: %NOTIFY-ORANGE%%ORANGE%Ohm Rune %NL%
+//ItemDisplay[r28]: %NOTIFY-ORANGE%%ORANGE%Lo Rune %NL%
+//ItemDisplay[r29]: %NOTIFY-ORANGE%%ORANGE%Sur Rune %NL%
+//ItemDisplay[r30]: %NOTIFY-ORANGE%%ORANGE%Ber Rune %NL%
+//ItemDisplay[r31]: %NOTIFY-ORANGE%%ORANGE%Jah Rune %NL%
+//ItemDisplay[r32]: %NOTIFY-ORANGE%%ORANGE%Cham Rune %NL%
+//ItemDisplay[r33]: %NOTIFY-ORANGE%%ORANGE%Zod Rune %NL%
 //High Value Runes (3.0+)
 ItemDisplay[r27]: %ORANGE%¤ %RUNENAME% ¤
 ItemDisplay[r28]: %ORANGE%¤ %RUNENAME% ¤
