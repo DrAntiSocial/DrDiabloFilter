@@ -130,26 +130,17 @@ ItemDisplay[r21]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
 ItemDisplay[r22]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
 ItemDisplay[r23]: %NOTIFY-ORANGE%%ORANGE% %RUNENAME% %NL%
 //24-33
-ItemDisplay[r24]: %NOTIFY-ORANGE%%ORANGE%Ist Rune %NL%
-ItemDisplay[r25]: %NOTIFY-ORANGE%%ORANGE%Gul Rune %NL%
-//ItemDisplay[r26]: %NOTIFY-ORANGE%%ORANGE%Vex Rune %NL%
-//ItemDisplay[r27]: %NOTIFY-ORANGE%%ORANGE%Ohm Rune %NL%
-//ItemDisplay[r28]: %NOTIFY-ORANGE%%ORANGE%Lo Rune %NL%
-//ItemDisplay[r29]: %NOTIFY-ORANGE%%ORANGE%Sur Rune %NL%
-//ItemDisplay[r30]: %NOTIFY-ORANGE%%ORANGE%Ber Rune %NL%
-//ItemDisplay[r31]: %NOTIFY-ORANGE%%ORANGE%Jah Rune %NL%
-//ItemDisplay[r32]: %NOTIFY-ORANGE%%ORANGE%Cham Rune %NL%
-//ItemDisplay[r33]: %NOTIFY-ORANGE%%ORANGE%Zod Rune %NL%
-//High Value Runes (3.0+)
+ItemDisplay[r24]: %NOTIFY-ORANGE%%ORANGE%¤ %RUNENAME% ¤ %NL%
+ItemDisplay[r25]: %NOTIFY-ORANGE%%ORANGE%¤ %RUNENAME% ¤ %NL%
+ItemDisplay[r26]: %NOTIFY-ORANGE%%ORANGE%¤ %RUNENAME% ¤ %NL%
 ItemDisplay[r27]: %NOTIFY-ORANGE%%ORANGE%¤ %RUNENAME% ¤ %NL%
 ItemDisplay[r28]: %NOTIFY-ORANGE%%ORANGE%¤ %RUNENAME% ¤ %NL%
 ItemDisplay[r29]: %NOTIFY-ORANGE%%ORANGE%¤ %RUNENAME% ¤ %NL%
 ItemDisplay[r30]: %NOTIFY-ORANGE%%ORANGE%¤ %RUNENAME% ¤ %NL%
-ItemDisplay[r26]: %NOTIFY-ORANGE%%ORANGE%¤ %RUNENAME% ¤ %NL%
 ItemDisplay[r31]: %NOTIFY-ORANGE%%ORANGE%¤ %RUNENAME% ¤ %NL%
 ItemDisplay[r32]: %NOTIFY-ORANGE%%ORANGE%¤ %RUNENAME% ¤ %NL%
 ItemDisplay[r33]: %NOTIFY-ORANGE%%ORANGE%¤ %RUNENAME% ¤ %NL%
-//
+
 
 //misc quest
 ItemDisplay[bbb]: %TAN%%NAME%
