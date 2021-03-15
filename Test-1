@@ -312,19 +312,19 @@ ItemDisplay[UNI !ID ama]: %TAN%%NAME%
 
 //Shields
 //Stormshield, Homunculus, Herald of Zakarum, Darkforce Spawn(+3PNB), Medusa's Gaze, Radament's Sphere
-ItemDisplay[UNI !ID uit]: %TAN%¤ %NAME% ¤
+ItemDisplay[UNI !ID uit]: %NOTIFY-ORANGE%%TAN%¤ %NAME% ¤%NL%
 //Homunculus
 ItemDisplay[UNI !ID nea]: %TAN%%NAME%
 //Herald of Zakarum
-ItemDisplay[UNI !ID pa9]: %TAN%%NAME%
+ItemDisplay[UNI !ID pa9]: %TAN%¤ %NAME% ¤
 //Darkforce Spawn
-ItemDisplay[UNI !ID nef]: %TAN%%NAME%
+ItemDisplay[UNI !ID nef]: %TAN%¤ %NAME% ¤
 //Medusa's Gaze
 ItemDisplay[UNI !ID uow]: %TAN%%NAME%
 //Alma Negra
 ItemDisplay[UNI !ID pac]: %TAN%%NAME%
 //Radament's Sphere
-ItemDisplay[UNI !ID xts]: %TAN%¤ %NAME% ¤
+ItemDisplay[UNI !ID xts]: %TAN%%NAME%
 
 //Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu OR jew OR ci3)]: %TAN%%NAME% ¤
