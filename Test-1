@@ -228,9 +228,9 @@ ItemDisplay[skz]: %ORANGE%Perfect %TAN%SKULL
 //
 //Helms
 //Griffon's Eye
-ItemDisplay[UNI !ID ci3]: %TAN%¤ %NAME% ¤
+ItemDisplay[UNI !ID ci3]: %NOTIFY-ORANGE%%TAN%¤ %NAME% ¤%NL%
 //Shako
-ItemDisplay[UNI !ID uap]: %TAN%¤ %NAME% ¤
+ItemDisplay[UNI !ID uap]: %NOTIFY-ORANGE%%TAN%¤ %NAME% ¤%NL%
 //Crown of Ages
 ItemDisplay[UNI !ID urn]: %TAN%%NAME%
 //Andariel's Visage
@@ -257,7 +257,7 @@ ItemDisplay[UNI !ID uar]: %TAN%¤ %NAME% ¤
 //Guardian Angel
 ItemDisplay[UNI !ID xlt]: %TAN%%NAME%
 //Tal Rasha Armor
-ItemDisplay[SET !ID uth]: %NAME% %TAN%¤
+ItemDisplay[SET !ID uth]: %NOTIFY-ORANGE%%NAME% %TAN%¤%NL%
 
 
 //Gloves
@@ -268,7 +268,7 @@ ItemDisplay[UNI !ID uhg]: %TAN%%NAME%
 
 //Belts
 //Arachnid Mesh
-ItemDisplay[UNI !ID ulc]: %TAN%¤ %NAME% ¤
+ItemDisplay[UNI !ID ulc]: %NOTIFY-ORANGE%%TAN%¤ %NAME% ¤%NL%
 //Verdungo's Hearty Cord
 ItemDisplay[UNI !ID umc]: %TAN%%NAME%
 //String of Ears
@@ -281,7 +281,7 @@ ItemDisplay[UNI !ID zhb]: %TAN%%NAME%
 
 //Boots
 //War Traveler
-ItemDisplay[UNI !ID xtb]: %TAN%¤ %NAME% ¤
+ItemDisplay[UNI !ID xtb]: %NOTIFY-ORANGE%%TAN%¤ %NAME% ¤%NL%
 //Shadow Dancer
 ItemDisplay[UNI !ID uhb]: %TAN%%NAME%
 //ETH Sandstorm Trek
@@ -289,13 +289,13 @@ ItemDisplay[UNI ETH !ID uvb]: %TAN%¤ ETH %NAME% ¤
 
 //Weapons
 //Death's Fathom, Death's Web, Eschuta's, Windforce, Reaper's Toll, Lacerator, Azurewrath
-ItemDisplay[UNI !ID obf]: %TAN%%NAME%
+ItemDisplay[UNI !ID obf]: %NOTIFY-ORANGE%%TAN%¤ %NAME% ¤%NL%
 //Death's Web
-ItemDisplay[UNI !ID 7gw]: %TAN%¤ %NAME% ¤
+ItemDisplay[UNI !ID 7gw]: %NOTIFY-ORANGE%%TAN%¤ %NAME% ¤%NL%
 //Eschuta's
 ItemDisplay[UNI !ID obc]: %TAN%%NAME%
 //Windforce
-ItemDisplay[UNI !ID 6lw]: %TAN%%NAME%
+ItemDisplay[UNI !ID 6lw]: %NOTIFY-ORANGE%%TAN%¤ %NAME% ¤%NL%
 //Reaper's Toll
 ItemDisplay[UNI !ID 7s8]: %TAN%%NAME%
 //ETH Reaper's Toll
@@ -316,7 +316,7 @@ ItemDisplay[UNI !ID uit]: %NOTIFY-ORANGE%%TAN%¤ %NAME% ¤%NL%
 //Homunculus
 ItemDisplay[UNI !ID nea]: %TAN%%NAME%
 //Herald of Zakarum
-ItemDisplay[UNI !ID pa9]: %TAN%¤ %NAME% ¤
+ItemDisplay[UNI !ID pa9]: %NOTIFY-ORANGE%%TAN%¤ %NAME% ¤%NL%
 //Darkforce Spawn
 ItemDisplay[UNI !ID nef]: %TAN%¤ %NAME% ¤
 //Medusa's Gaze
@@ -327,7 +327,7 @@ ItemDisplay[UNI !ID pac]: %TAN%%NAME%
 ItemDisplay[UNI !ID xts]: %TAN%%NAME%
 
 //Rings Amulets Jewels Charms
-ItemDisplay[UNI !ID (rin OR amu OR jew OR ci3)]: %TAN%%NAME% ¤
+ItemDisplay[UNI !ID (rin OR amu OR jew OR ci3)]: %NOTIFY-ORANGE%%TAN%¤ %NAME% ¤%NL%
 
 //UNIQUE&SET Eth/Socket Catchall
 ItemDisplay[UNI ETH SOCK>0 !ID]: ETH %NAME% [%SOCKETS%]
